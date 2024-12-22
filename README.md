@@ -1,0 +1,1 @@
+This project analyzes Diwali sales data to uncover trends, insights, and actionable recommendations for optimizing marketing strategies, enhancing customer experience, and boosting sales during the festive season.
